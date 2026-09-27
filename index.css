@@ -14,9 +14,8 @@ body {
 /* header のスタイル */
 header {
   background-color: #f8f8f8;
-  background-image: url("かわいい背景だよ.jpg");
   padding: 200px;
-  border-bottom: 5px solid #999999; /* シンプルなグレーの枠線 */
+  border-bottom: 5px solid #999999;
 }
 
 h1 {
@@ -40,7 +39,7 @@ section {
   background-color: #f8f8f8;
   padding: 20px;
   font-size: 18px;
-  margin: 0; /* sectionの余白をゼロに */
+  margin: 0;
 }
 
 p {
@@ -69,10 +68,3 @@ footer {
   padding: 15px;
   text-align: center;
 }
-
-footer img {
-  width: 240px;
-}
-
-
-
